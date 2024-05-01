@@ -1,0 +1,146 @@
+{
+    "navbar": {
+        "navbarLink1" : "I want my place registered",
+        "navbarLink2": "Start",
+        "navbarLink3": "Places",
+        "navbarLink4": "Events",
+        "navbarLink5": "Help",
+        "navbarLoginButton": "Login",
+        "navbarRegisterButton": "Register",
+        "navbarFirstSectionTitle": "Come explore the beautiful Cape-Verdean",
+        "navbarLanguageSelectorOption1" : "Portuguese",
+        "navbarLanguageSelectorOption2" : "French",
+        "navbarLanguageSelectorOption3" : "English",
+        "navbarLanguageSelectorOption4" : "German",
+        "navbarLanguageSelectorOption5" : "Italian",
+        "navbarLanguageSelectorOption6" : "Spanish"
+    },
+
+    "firstSection": {
+        "firstSectionTitle": "Come explore the Cape Verdean",
+        "firstSectionTitleContinuation": "Morabeza with Ilha",
+        "firstSectionSubTitle": "We combine the best experiences in one place, in order for you to find the best way to enjoy your time in Cape Verde",
+        "fistSectionExploreNowButton" : "Explore now"
+    },
+
+    "secondSection": {
+        "secondSectionFactTitle1": "+100",
+        "secondSectionFactSubTitle1": "Registred places",
+
+        "secondSectionFactTitle2": "+100",
+        "secondSectionFactSubTitle2": "Events published",
+
+        "secondSectionFactTitle3": "+100",
+        "secondSectionFactSubTitle3": "Entrepreneurs in the platform"
+    },
+
+    "thirdSection": {
+        "thirdSectionCard1": "We try to register verified and trustworthy places on the platform",
+        "thirdSectionCard2": "We offer accurate information and all the means to reach your goal",
+        "thirdSectionCard3": "We catalog all the best places, offering information, photos and videos",
+        "thirdSectionCard4": "We put all our resources and efforts into offering you the best possible service."
+    },
+
+    "fourthSection": {
+        "fourthSectionTitle": "Types of places",
+
+        "fourthPageCardTitle1": "Beaches",
+        "fourthPageCardText1": "On our platform we offer different sea beaches in different locations for you to enjoy the summer.",
+
+        "fourthPageCardTitle2": "Hotels and villas",
+        "fourthPageCardText2": "Find the best places to stay while you're here anywhere in Cape Verde.",
+        
+        "fourthPageCardTitle3": "Restaurants and bars",
+        "fourthPageCardText3": "We present the best bars and restaurants here, so you can enjoy good local food and drink.",
+        
+        "fourthPageCardTitle4": "Historical places",
+        "fourthPageCardText4": "Visit historic and important places in the development of Cape Verdean culture."
+    },
+
+    "fifthSection": {
+        "fifthSectionTitle": "Top cidades",
+        "fifthSectionSubTitle": "Find places and events to best enjoy in the most popular cities",
+
+        "fifthSectionCardTitle1": "Praia, Santiago",
+        "fifthSectionCardSubTitle1": "City of Praia, Capital of the island of Santiago and Cape Verde.",
+        
+        "fifthSectionCardTitle2": "Mindelo, São Vicente",
+        "fifthSectionCardSubTitle2": "City of Mindelo, Capital of the island of Sáo Vicente, located in the Barlavento part of the archipelago.",
+        
+        "fifthSectionCardTitle3": "Porto Novo, Santo Antão",
+        "fifthSectionCardSubTitle3": "City of Porto Novo, Capital of the island of Santo Antão, an island famous for its beautiful mountains and flora.",
+        
+        "fifthSectionCardTitle4": "Esapargos, Sal",
+        "fifthSectionCardSubTitle4": "City of Espargos, Capital of the island of Sal, an island popular with tourists in Cape Verde."
+    },
+
+    "sixthSection": {
+        "sixthSectionTitle": "Other popular places"
+    },
+
+    "seventhSection": {
+        "seventhSectionTitle": "See what our users say about Ilha",
+
+        "seventhSectionTestimonial1": "It's incredible how in one place they managed to bring together all the best that Cape Verde has to offer!",
+        "seventhSectionTestimonialPerson1": "- Daniel Furtado",
+        
+        "seventhSectionTestimonial2": "The island is so good that I can't decide which place to go, the options are really good!",
+        "seventhSectionTestimonialPerson2": "- Stefan Coder",
+        
+        "seventhSectionTestimonial3": "A Friday night or a Sunday out with the family, this helps a lot to find leisure options and make the most of the moments.",
+        "seventhSectionTestimonialPerson3": "- Felipe Costa"
+    },
+
+    "faqSection": {
+        "faqSectionTitle": "Frequently asked questions",
+
+        "faqQuestion1": "How Ilha works?",
+        "faqAnswer1": "Create your account on the platform to better take advantage of all the features. With the created account, you can enable your device to send your location to the Island, thus having a better experience in recommending places and events.",
+        
+        "faqQuestion2": "What i can find inside Ilha?",
+        "faqAnswer2": "You can find different types of places and events in Cape Verde to visit, according to your tastes and preferences.",
+        
+        "faqQuestion3": "Is it safe to use Ilha?",
+        "faqAnswer3": "We guarantee our users that their data is stored securely and is only used for the purpose of offering the application's functionalities.",
+        
+        "faqQuestion4": "How do you know if a place or event is safe to attend?",
+        "faqAnswer4": "A series of checks are carried out before any place or event is officially published and shown on our platform, from ensuring that the establishment is legitimate, the place exists and is safe, among several other checks to ensure the safety of our users.",
+        
+        "faqQuestion5": "Is it mandatory to pay to use the application?",
+        "faqAnswer5": "You can create an account without committing to pay anything, but it has limited features when compared to paid plans on the platform."
+    },
+
+    "footerSection": {
+        "footerFistSectionTitle" : "Ilha",
+        "footerFirstSectionOptions1" : "Colaborators",
+        "footerFirstSectionOptions12" : "Cookies policy",
+        "footerFirstSectionOptions13" : "Privacy policy",
+
+        "footerSecondSectionTitle" : "Visitants",
+        "footerSecondSectionOption" : "How it works?",
+        "footerSecondSectionOption2" : "Blog",
+        "footerSecondSectionOption3" : "Help",
+        "footerSecondSectionOption4" : "Promotions",
+        "footerSecondSectionOption5" : "Contact us",
+
+        "footerThirdSectionTitle" : "Place owners",
+        "footerThirdSectionOption" : "Anounce your property and your events here",
+        "footerThirdSectionOption2" : "Contact us",
+        
+        "footerFourthSectionTitle" : "Help",
+        "footerFourthSectionHelpCenterBox" : "Visit our help center",
+        "footerFourthSectionLanguageSelector" : "Language",
+        "footerLanguageSelectorOption1" : "Portuguese",
+        "footerLanguageSelectorOption2" : "French",
+        "footerLanguageSelectorOption3" : "English",
+        "footerLanguageSelectorOption4" : "German",
+        "footerLanguageSelectorOption5" : "Italian",
+        "footerLanguageSelectorOption6" : "Spanish",
+
+        "footerFollowUsSectionTitle" : "Follow us on",
+        "footerCopyWrightText" : "2023 Copyright Ilha | All Rights Reserverd"
+    }
+}
+
+
+

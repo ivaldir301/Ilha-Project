@@ -1,0 +1,145 @@
+{
+    "navbar": {
+        "navbarLink1" : "Quero meu lugar registrado",
+        "navbarLink2": "Início",
+        "navbarLink3": "Lugares",
+        "navbarLink4": "Eventos",
+        "navbarLink5": "Ajuda",
+        "navbarLoginButton": "Entrar",
+        "navbarRegisterButton": "Registrar",
+        "navbarFirstSectionTitle": "Venha explorar a linda morabeza",
+        "navbarLanguageSelectorOption1" : "Português",
+        "navbarLanguageSelectorOption2" : "Francês",
+        "navbarLanguageSelectorOption3" : "Inglês",
+        "navbarLanguageSelectorOption4" : "Alemão",
+        "navbarLanguageSelectorOption5" : "Italiano",
+        "navbarLanguageSelectorOption6" : "Espanhol"
+    },
+
+    "firstSection": {
+        "firstSectionTitle": "Venha explorar a linda morabeza",
+        "firstSectionTitleContinuation": "Cabo-Verdiana com Ilha",
+        "firstSectionSubTitle": "Nós combinamos as melhores expêriencias em um lugar, de modo a encontrares o melhor para ti",
+        "fistSectionExploreNowButton" : "Explorar agora"
+    },
+
+    "secondSection": {
+        "secondSectionFactTitle1": "+100",
+        "secondSectionFactSubTitle1": "Lugares registrados",
+
+        "secondSectionFactTitle2": "+100",
+        "secondSectionFactSubTitle2": "Eventos publicados",
+
+        "secondSectionFactTitle3": "+100",
+        "secondSectionFactSubTitle3": "Empreendedores na plataforma"
+    },
+
+    "thirdSection": {
+        "thirdSectionCard1": "Tratamos de registrar lugares verificados e confiaveis na plataforma",
+        "thirdSectionCard2": "Oferecemos dados precisos e todos os meios para chegares no teu objectivo",
+        "thirdSectionCard3": "Catalogamos todos os melhores lugares, oferecendo informações, fotos e videos",
+        "thirdSectionCard4": "Colocamos todos os nossos meios e esforços em ti ofereçer o melhor serviço possivel"
+    },
+
+    "fourthSection": {
+        "fourthSectionTitle": "Types of places",
+
+        "fourthPageCardTitle1": "Praias de mar",
+        "fourthPageCardText1": "Na nossa plataforma oferecemos diferentes praias de mar para aproveitares o verão em Cabo Verde",
+
+        "fourthPageCardTitle2": "Hoteís e moradias",
+        "fourthPageCardText2": "Encontre os melhores lugares para alojares enquanto estiveres aqui em qualquer parte de Cabo Verde.",
+        
+        "fourthPageCardTitle3": "Restaurantes and bares",
+        "fourthPageCardText3": "Apresentamos os melhores bares e restaurantes aqui, para que possa apreciar da boa comida e bebida local.",
+        
+        "fourthPageCardTitle4": "Lugares históricos",
+        "fourthPageCardText4": "Visite lugares historicos e importantes no desenvolvimento da cultura Cabo-Verdiana."
+    },
+
+    "fithSection": {
+        "fithSectionTitle": "Top cidades",
+        "fithSectionSubTitle": "Encontre lugares e eventos para melhor desfrutar nas cidades mais populares",
+
+        "fithSectionCardTitle1": "Praia, Santiago",
+        "fithSectionCardSubTitle1": "Cidade de Praia, Capital da ilha de Santiago e de Cabo Verde.",
+        
+        "fithSectionCardTitle2": "Mindelo, São Vicente",
+        "fithSectionCardSubTitle2": "Cidade de Mindelo, Capital da ilha de Sáo Vicente, situada na parte Barlavento do arquipélago.",
+        
+        "fithSectionCardTitle3": "Porto Novo, Santo Antão",
+        "fithSectionCardSubTitle3": "Cidade de Porto Novo, Capital da ilha de Santo Antão, ilha famosa pelas belas montanhas e flora.",
+        
+        "fithSectionCardTitle4": "Espargos, Sal",
+        "fithSectionCardSubTitle4": "Cidade de Espargos, Capital da ilha de Sal, ilha popular pelos turistas em Cabo Verde."
+    },
+
+    "sixthSection": {
+        "sixthSectionTitle": "Outros lugares populares"
+    },
+
+    "seventhSection": {
+        "seventhSectionTitle": "Veja o que nossos utilizadores dizem sobre nós",
+
+        "seventhSectionTestimonial1": "Incrível como em um só lugar conseguiram reunir todo de melhor que aqui em Cabo Verde tem!",
+        "seventhSectionTestimonialPerson1": "- Daniel Furtado",
+        
+        "seventhSectionTestimonial2": "Ilha é tão bom, que fico indeciso de qual dos lugares ir, as opções são muito boas!",
+        "seventhSectionTestimonialPerson2": "- Stefan Coder",
+        
+        "seventhSectionTestimonial3": "Uma sexta a noite ou um domingo fora com a família, isto ajuda muito a encontrar opções de lazer e melhor aproveitar os momentos.",
+        "seventhSectionTestimonialPerson3": "- Felipe Costa"
+    },
+
+    "faqSection": {
+        "faqSectionTitle": "Perguntas Frequentes",
+
+        "faqQuestion1": "Como Ilha funciona?",
+        "faqAnswer1": "Crie a sua conta na plataforma para melhor aproveitar de todas as funcionalidades, com a conta criada, podes habilitar o seu dispositivo a enviar sua localização para Ilha, assim tendo uma melhor expêriencia nas recomendações de lugares e eventos.",
+        
+        "faqQuestion2": "O que posso encontrar em Ilha?",
+        "faqAnswer2": "Podes encontrar diferentes tipos de lugares e eventos em Cabo Verde para visitares, de acordo com seus gostos e preferências.",
+        
+        "faqQuestion3": "É seguro usar Ilha?",
+        "faqAnswer3": "Damos a garantia aos nossos utilizadores que os seus dados são armazenados de forma segura e são usados apenas para fins de oferecer as funcionalidades da aplicação.",
+        
+        "faqQuestion4": "Como saber se um lugar ou evento é seguro de antender?",
+        "faqAnswer4": "É realizado uma serie de verificações antes de que qualquer lugar ou evento seja oficialmente publicado e mostrado na nossa plataforma, desde garantir que o estabelecimento é legítimo, o lugar existe e é seguro, dentre várias outras verificações para garantir a segurança dos nossos utilizadores.",
+        
+        "faqQuestion5": "É obrigatório pagar para poder usar a aplicação?",
+        "faqAnswer5": "Podes criar uma conta sem comprometer a pagar nada, mas tem funcionalidades limitadas quando comparadas com os planos pagos na plataforma."
+    },
+
+    "footerSection": {
+        "footerFistSectionTitle" : "Ilha",
+        "footerFirstSectionOptions1" : "Colaboradores",
+        "footerFirstSectionOptions12" : "Política de cookies",
+        "footerFirstSectionOptions13" : "Política de privacidade",
+        "footerSecondSectionTitle" : "Visitantes",
+        "footerSecondSectionOption" : "Como funciona?",
+        "footerSecondSectionOption2" : "Blog",
+        "footerSecondSectionOption3" : "Ajuda",
+        "footerSecondSectionOption4" : "Promoções",
+        "footerSecondSectionOption5" : "Contacte-nos",
+    
+        "footerThirdSectionTitle" : "Lugares",
+        "footerThirdSectionOption" : "Anuncie o seu lugar e seus eventos aqui",
+        "footerThirdSectionOption2" : "Contacte-nos",
+    
+        "footerFourthSectionTitle" : "Ajuda",
+        "footerFourthSectionHelpCenterBox" : "Visite o centro de ajuda",
+        "footerFourthSectionLanguageSelector" : "Lingua",
+        "footerLanguageSelectorOption1" : "Português",
+        "footerLanguageSelectorOption2" : "Francês",
+        "footerLanguageSelectorOption3" : "Inglês",
+        "footerLanguageSelectorOption4" : "Alemão",
+        "footerLanguageSelectorOption5" : "Italiano",
+        "footerLanguageSelectorOption6" : "Espanhol",
+    
+        "footerFollowUsSectionTitle" : "Siga-nos em:",
+        "footerCopyWrightText" : "2023 Copyright Ilha | Todos os direitos reservados"
+    }
+}
+
+
+

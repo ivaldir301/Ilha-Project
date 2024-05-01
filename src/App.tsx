@@ -1,25 +1,38 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Nav } from "./components/Common/Navbar/NavbarWithoutLogin";
+import { GlobalStyle } from "./components/Common/Global.styles";
+import { FirstPageSection } from "./components/MainPageWithoutLogin/FirstPageSection/FirstPageSection";
+import { SecondPageSection } from "./components/MainPageWithoutLogin/SecondPageSection/SecondPageSection";
+import { ThirdPageSection } from "./components/MainPageWithoutLogin/ThirdPageSection/ThirdPageSection";
+import { FourthPageSection } from "./components/MainPageWithoutLogin/FourthPageSection/FourthPageSection";
+import { PageImageGridSection } from "./components/MainPageWithoutLogin/PageImageGrid/PageImageGridSection";
+import { FifthPageSection } from "./components/MainPageWithoutLogin/FifthPageSection/FithPageSection";
+import { SixthPageSection } from "./components/MainPageWithoutLogin/SixthPageSection/SixthPageSection";
+import { SeventhPageSection } from "./components/MainPageWithoutLogin/SeventhPageSection/SeventhPageSection";
+import { FaqSection } from "./components/MainPageWithoutLogin/FaqSection/FaqSection";
+import { PageFooter } from "./components/Common/Footer/PageFooter";
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Router>
+      <Routes>
+        <GlobalStyle />
+        <Nav />
+        <FirstPageSection />
+        <PageImageGridSection />
+        <SecondPageSection />
+        <ThirdPageSection />
+        <FourthPageSection />
+        <FifthPageSection />
+        <SixthPageSection />
+        <SeventhPageSection />
+        <FaqSection />
+        <PageFooter />
+      </Routes>
+    </Router>
+    </>
   );
 }
 
