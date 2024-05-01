@@ -47,7 +47,7 @@ export const Nav = () => {
         </Navlist>
         <BtnWrapper>
           <LanguageSelectorSelect
-            value={String(localStorage.getItem("language"))}
+            value={String(localStorage.getItem("language") || "en")}
             onChange={(e) => {
               setLanguage(e.target.value);
             }}
