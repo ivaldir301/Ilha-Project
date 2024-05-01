@@ -11,27 +11,21 @@ import { SeventhPageSection } from "./components/MainPageWithoutLogin/SeventhPag
 import { FaqSection } from "./components/MainPageWithoutLogin/FaqSection/FaqSection";
 import { PageFooter } from "./components/Common/Footer/PageFooter";
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-
 function App() {
   return (
     <>
-    <Router>
-      <Routes>
-        <GlobalStyle />
-        <Nav />
-        <FirstPageSection />
-        <PageImageGridSection />
-        <SecondPageSection />
-        <ThirdPageSection />
-        <FourthPageSection />
-        <FifthPageSection />
-        <SixthPageSection />
-        <SeventhPageSection />
-        <FaqSection />
-        <PageFooter />
-      </Routes>
-    </Router>
+      <GlobalStyle />
+      <Nav />
+      <FirstPageSection />
+      <PageImageGridSection />
+      <SecondPageSection />
+      <ThirdPageSection />
+      <FourthPageSection />
+      <FifthPageSection />
+      <SixthPageSection />
+      <SeventhPageSection />
+      <FaqSection />
+      <PageFooter />
     </>
   );
 }
