@@ -19,7 +19,7 @@
 .env.production.local
 
 # un-necessary folders 
-public/ 
+ 
 
 npm-debug.log*
 yarn-debug.log*
