@@ -10,12 +10,23 @@ import { SixthPageSection } from "./components/MainPageWithoutLogin/SixthPageSec
 import { SeventhPageSection } from "./components/MainPageWithoutLogin/SeventhPageSection/SeventhPageSection";
 import { FaqSection } from "./components/MainPageWithoutLogin/FaqSection/FaqSection";
 import { PageFooter } from "./components/Common/Footer/PageFooter";
+import { useState } from "react";
+import MenuMobile from "./components/Common/MenuMobile/MenuMobile";
 
 function App() {
+  const [responsiveMenuState, setResponsiveMenuState] = useState<boolean>(false)
+
   return (
     <>
       <GlobalStyle />
-      <Nav />
+      <MenuMobile
+        menuIsVisible={responsiveMenuState}
+        setMenuIsVisible={setResponsiveMenuState}
+      />
+      <Nav
+        menuIsVisible={responsiveMenuState}
+        setMenuIsVisible={setResponsiveMenuState}  
+      />
       <FirstPageSection />
       <PageImageGridSection />
       <SecondPageSection />

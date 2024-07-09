@@ -11,8 +11,10 @@ import {
 import { useTranslation } from "react-i18next";
 import { setLanguage } from "../../../helpers/setLanguage";
 import { LanguageSelectorSelect } from "../LanguageSelector/LanguageSelector";
+import { MenuMobileProps } from "../interfaces/IMenuMobileProps";
+import { RiMenu3Fill } from "react-icons/ri";
 
-export const Nav = () => {
+export const Nav: React.FC<MenuMobileProps> = ({ menuIsVisible, setMenuIsVisible }) => {
   const { t } = useTranslation();
 
   return (
@@ -60,6 +62,9 @@ export const Nav = () => {
             <option value="es">{t("navbar.navbarLanguageSelectorOption6")}</option>
           </LanguageSelectorSelect>
         </BtnWrapper>
+        <section>
+          <RiMenu3Fill onClick={() => setMenuIsVisible(true)}/>
+        </section>
       </NavBar>
     </>
   );
